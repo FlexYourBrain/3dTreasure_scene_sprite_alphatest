@@ -1,8 +1,8 @@
 # Treasure 3d scene
 
-This project showcases some of defolds rendering features for a 3d scene.
+Rendering test project for sprites with alpha in 3d space.
 
-["Play The Scene Demo"]([https://flexyourbrain.itch.io/treasure-scene](https://flexyourbrain.itch.io/3d-sprite-alpha-test](https://flexyourbrain.itch.io/3d-sprite-alpha-test)  pass:1234
+["Play The Scene Demo"](https://flexyourbrain.itch.io/3d-sprite-alpha-test)  pass:1234
 
  
 **Key Controls** :
